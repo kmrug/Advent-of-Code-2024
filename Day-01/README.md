@@ -27,7 +27,9 @@ The elves suspect that many numbers in the left list are just **badly written du
 
 ### **Output**
 
-Total Distance: 11 Similarity Score: 31
+`Total Distance: 11`
+
+`Similarity Score: 31`
 
 ---
 
