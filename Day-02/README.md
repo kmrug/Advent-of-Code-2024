@@ -60,4 +60,4 @@ Now, **4 reports** are safe.
 
 ---
 
-📝 **Author:** [kmrug](https://github.com/kmrug)
+📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
