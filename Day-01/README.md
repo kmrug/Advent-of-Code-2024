@@ -21,7 +21,9 @@ The elves suspect that many numbers in the left list are just **badly written du
 ## 📌 Example
 ### **Input**
 
-Left List: [3, 4, 2, 1, 3, 3] Right List: [4, 3, 5, 3, 9, 3]
+`Left List: [3, 4, 2, 1, 3, 3]`
+
+`Right List: [4, 3, 5, 3, 9, 3]`
 
 ### **Output**
 
