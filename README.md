@@ -10,6 +10,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | Day | Puzzle Name | Solution |
 |-----|-------------|----------|
 | 01  | Historian Hysteria | [Day-01](Day-01/) |
+| 02  | Red-Nosed Reports | [Day-02](Day-02/) |
 
 ---
 
@@ -17,7 +18,8 @@ This repository contains my daily solutions for Advent of Code, along with probl
 
 | Day | Stars Earned |
 |----|--------------|
-| 01  | 🌟🌟 |
+| 01 | 🌟🌟 |
+| 02 | 🌟🌟 |
 
 
 I am aiming to complete all **25 days**! 🚀
