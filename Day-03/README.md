@@ -31,7 +31,9 @@ where `X` and `Y` are **1-3 digit numbers**.
 
 Valid Instructions: 
 `mul(2,4) → 2 * 4 = 8 mul(5,5) → 5 * 5 = 25 mul(11,8) → 11 * 8 = 88 mul(8,5) → 8 * 5 = 40`
-`Sum of Results: 161`
+
+Sum of Results:
+`161`
 
 ---
 
@@ -50,7 +52,9 @@ By default, all `mul()` instructions are **enabled**, but the most recent `do()`
 
 Valid Instructions:
 `mul(2,4) → 2 * 4 = 8 ✅ (Enabled) mul(5,5) → 5 * 5 = 25 ❌ (Disabled by don't()) mul(11,8) → 11 * 8 = 88 ❌ (Disabled by don't()) mul(8,5) → 8 * 5 = 40 ✅ (Re-enabled by do())`
-`Sum of Results with Conditions: 48`
+
+Sum of Results with Conditions:
+`48`
 
 
 📖 **[Full problem description on Advent of Code](https://adventofcode.com/2024/day/3)**
@@ -66,6 +70,7 @@ Valid Instructions:
 
 Valid Multiplications: 
 `[24, 55, 118, 85]`
+
 Sum:
 `161`
 
@@ -73,6 +78,7 @@ Sum:
 
 Valid Multiplications (With Conditions):
 `[24, 85]`
+
 Sum: 
 `48`
 
