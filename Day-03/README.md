@@ -61,29 +61,6 @@ Sum of Results with Conditions:
 
 ---
 
-## 📌 Example Summary
-### **Input**
-
-`xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))`
-
-### **Output (Part 1)**
-
-Valid Multiplications: 
-`[24, 55, 118, 85]`
-
-Sum:
-`161`
-
-### **Output (Part 2)**
-
-Valid Multiplications (With Conditions):
-`[24, 85]`
-
-Sum: 
-`48`
-
----
-
 ## 📂 Files in This Folder
 - `PuzzleDay3.java` → Java implementation of the puzzle.
 - `memory.txt` → The input file containing the corrupted memory.
