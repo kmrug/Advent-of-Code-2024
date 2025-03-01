@@ -20,14 +20,23 @@ Your task is to **find all occurrences** of the word **XMAS** in the grid, regar
 ### Example Input
 
 `MMMSXXMASM`
+
 `MSAMXMSMSA`
+
 `AMXSXMAAMM`
+
 `MSAMASMSMX`
+
 `XMASAMXAMM`
+
 `XXAMMXXAMA`
+
 `SMSMSASXSS`
+
 `SAXAMASAAA`
+
 `MAMMMXMMMM`
+
 `MXMXAXMASX`
 
 ### Example Output
@@ -59,14 +68,23 @@ Where each **MAS** can be written **forwards** or **backwards**.
 ### Example Input
 
 `MMMSXXMASM`
+
 `MSAMXMSMSA`
+
 `AMXSXMAAMM`
+
 `MSAMASMSMX`
+
 `XMASAMXAMM`
+
 `XXAMMXXAMA`
+
 `SMSMSASXSS`
+
 `SAXAMASAAA`
+
 `MAMMMXMMMM`
+
 `MXMXAXMASX`
 
 ### Example Output
