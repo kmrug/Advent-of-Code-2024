@@ -58,7 +58,7 @@ Correctly Ordered Updates:
 - **97,61,53,29,13** → Middle: **53**  
 - **75,29,13** → Middle: **29**  
 
-Total Sum: `**143**  `
+Total Sum: `143`
 
 ---
 
@@ -71,7 +71,7 @@ For each of the **incorrectly-ordered updates**, sort the pages according to the
 - `61,13,29` → `61,29,13` → Middle: **29**  
 - `97,13,75,29,47` → `97,75,47,29,13` → Middle: **47**  
 
-Total Sum: `**123**  `
+Total Sum: `123`
 
 ---
 
