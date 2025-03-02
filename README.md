@@ -13,7 +13,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 02  | Red-Nosed Reports  | [Day-02](Day-02/) |
 | 03  | Mull It Over       | [Day-03](Day-03/) |
 | 04  | Ceres Search       | [Day-04](Day-04/) |
-| 04  | Print Queue        | [Day-05](Day-05/) |
+| 05  | Print Queue        | [Day-05](Day-05/) |
 
 ---
 
