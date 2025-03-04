@@ -30,7 +30,8 @@ where `X` and `Y` are **1-3 digit numbers**.
 
 #### **Example Output**
 
-Valid Instructions: 
+Valid Instructions:
+
 `mul(2,4) → 2 * 4 = 8`
 
 `mul(5,5) → 5 * 5 = 25`
