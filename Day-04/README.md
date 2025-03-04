@@ -50,9 +50,11 @@ Flip the puzzle instructions and discover that you're supposed to find **X-MAS p
 
 A valid X-MAS looks like this:
 
+```
 M.S
 .A.
 M.S
+```
 
 Where each **MAS** can be written **forwards** or **backwards**.
 
@@ -87,7 +89,7 @@ X-MAS occurs: `9 times`
 ---
 
 ## 📂 Files in This Folder
-- `solution.java` → Java implementation of the puzzle.
+- `PuzzleDay4.java` → Java implementation of the puzzle.
 - `search.txt` → Word search grid input.
 - `searchTest.txt` → Word search grid input.
 
