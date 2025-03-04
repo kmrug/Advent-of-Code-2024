@@ -17,6 +17,7 @@ where `X` and `Y` are **1-3 digit numbers**.
 ✅ **Valid Examples:**
 
 `mul(44,46) → 44 * 46 = 2024`
+
 `mul(123,4) → 123 * 4 = 492`
 
 ❌ **Invalid Examples (Ignored):**
@@ -30,7 +31,10 @@ where `X` and `Y` are **1-3 digit numbers**.
 #### **Example Output**
 
 Valid Instructions: 
-`mul(2,4) → 2 * 4 = 8 mul(5,5) → 5 * 5 = 25 mul(11,8) → 11 * 8 = 88 mul(8,5) → 8 * 5 = 40`
+`mul(2,4) → 2 * 4 = 8`
+`mul(5,5) → 5 * 5 = 25`
+`mul(11,8) → 11 * 8 = 88`
+`mul(8,5) → 8 * 5 = 40`
 
 Sum of Results:
 `161`
@@ -51,7 +55,11 @@ By default, all `mul()` instructions are **enabled**, but the most recent `do()`
 #### **Example Output**
 
 Valid Instructions:
-`mul(2,4) → 2 * 4 = 8 ✅ (Enabled) mul(5,5) → 5 * 5 = 25 ❌ (Disabled by don't()) mul(11,8) → 11 * 8 = 88 ❌ (Disabled by don't()) mul(8,5) → 8 * 5 = 40 ✅ (Re-enabled by do())`
+
+`mul(2,4) → 2 * 4 = 8 ✅ (Enabled)`
+`mul(5,5) → 5 * 5 = 25 ❌ (Disabled by don't())`
+`mul(11,8) → 11 * 8 = 88 ❌ (Disabled by don't())`
+`mul(8,5) → 8 * 5 = 40 ✅ (Re-enabled by do())`
 
 Sum of Results with Conditions:
 `48`
@@ -70,5 +78,3 @@ Sum of Results with Conditions:
 ---
 
 📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
-
-
