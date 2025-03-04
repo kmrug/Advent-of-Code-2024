@@ -54,7 +54,7 @@ Now, **4 reports** are safe.
 ---
 
 ## 📂 Files in This Folder
-- `solution.java` → Java implementation of the puzzle.
+- `PuzzleDay2.java` → Java implementation of the puzzle.
 - `reports.txt` → The input file containing the reactor reports.
 - `reportsTest.txt` → The input file containing the reactor reports.
 
