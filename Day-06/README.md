@@ -105,6 +105,4 @@ Possible obstruction placements: `6`
 
 ---
 
-## 📝 Author  
-
-**Kishan Mrug**  
+📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
