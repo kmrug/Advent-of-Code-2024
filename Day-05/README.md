@@ -118,4 +118,4 @@ Total Sum: `123`
 
 ---
 
-📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
+📝 **Author:** [Kishan Mrug](https://www.linkedin.com/in/kishan-mrug/)

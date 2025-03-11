@@ -119,4 +119,4 @@ X-MAS occurs: `9 times`
 
 ---
 
-📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
+📝 **Author:** [Kishan Mrug](https://www.linkedin.com/in/kishan-mrug/)

@@ -40,4 +40,4 @@ Feel free to check out my solutions, leave feedback, and star ⭐ the repository
 
 ---
 
-**Author:** [Kishan Mrug](https://github.com/kmrug)
+**Author:** [Kishan Mrug](https://www.linkedin.com/in/kishan-mrug/)

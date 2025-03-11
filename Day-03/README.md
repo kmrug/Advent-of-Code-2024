@@ -84,4 +84,4 @@ Sum of Results with Conditions:
 
 ---
 
-📝 **Author:** [Kishan Mrug](https://github.com/kmrug)
+📝 **Author:** [Kishan Mrug](https://www.linkedin.com/in/kishan-mrug/)
