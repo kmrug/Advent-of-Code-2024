@@ -15,7 +15,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 04  | Ceres Search       | [Day-04](Day-04/) |
 | 05  | Print Queue        | [Day-05](Day-05/) |
 | 06  | Guard Gallivant    | [Day-06](Day-06/) |
-
+| 07  | Bridge Repair      | [Day-07](Day-07/) |
 ---
 
 ## ⭐ Progress Tracker
@@ -28,6 +28,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 04  | 🌟🌟           |
 | 05  | 🌟🌟           |
 | 06  | 🌟🌟           |
+| 07  | 🌟🌟           |
 
 I am aiming to complete all **25 days**! 🚀
 
