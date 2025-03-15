@@ -86,10 +86,12 @@ New Total Calibration Result: `11387`
 
 ## 📂 Files in This Folder  
 
-| File Name       | Description                         |
-|----------------|-------------------------------------|
-| `solution.java` | Java implementation of the puzzle |
-| `equations.txt` | Calibration equations input       |
+| File Name         | Description                       |
+| ----------------- | --------------------------------- |
+| `PuzzleDay7.java` | Java implementation of the puzzle |
+| `BruteForce.java` | Java implementation of the puzzle |
+| `num.java`        | Calibration equations input       |
+| `numTest.txt`     | Calibration equations input       |
 
 ---
 
@@ -113,10 +115,10 @@ New Total Calibration Result: `11387`
 
 ## 📌 Actual Output Summary  
 
-| Part    | Result |
-|---------|-------|
-| Part 1  | **975671981569** |
-| Part 2  | **223472064194845** |
+| Part   | Result              |
+| ------ | ------------------- |
+| Part 1 | **975671981569**    |
+| Part 2 | **223472064194845** |
 
 ---
 
