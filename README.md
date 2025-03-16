@@ -7,15 +7,16 @@ This repository contains my daily solutions for Advent of Code, along with probl
 
 ## 📜 Table of Contents
 
-| Day | Puzzle Name        | Solution          |
-| --- | ------------------ | ----------------- |
-| 01  | Historian Hysteria | [Day-01](Day-01/) |
-| 02  | Red-Nosed Reports  | [Day-02](Day-02/) |
-| 03  | Mull It Over       | [Day-03](Day-03/) |
-| 04  | Ceres Search       | [Day-04](Day-04/) |
-| 05  | Print Queue        | [Day-05](Day-05/) |
-| 06  | Guard Gallivant    | [Day-06](Day-06/) |
-| 07  | Bridge Repair      | [Day-07](Day-07/) |
+| Day | Puzzle Name           | Solution          |
+| --- | --------------------- | ----------------- |
+| 01  | Historian Hysteria    | [Day-01](Day-01/) |
+| 02  | Red-Nosed Reports     | [Day-02](Day-02/) |
+| 03  | Mull It Over          | [Day-03](Day-03/) |
+| 04  | Ceres Search          | [Day-04](Day-04/) |
+| 05  | Print Queue           | [Day-05](Day-05/) |
+| 06  | Guard Gallivant       | [Day-06](Day-06/) |
+| 07  | Bridge Repair         | [Day-07](Day-07/) |
+| 08  | Resonant Collinearity | [Day-08](Day-08/) |
 ---
 
 ## ⭐ Progress Tracker
@@ -29,6 +30,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 05  | 🌟🌟           |
 | 06  | 🌟🌟           |
 | 07  | 🌟🌟           |
+| 08  | 🌟🌟           |
 
 I am aiming to complete all **25 days**! 🚀
 
