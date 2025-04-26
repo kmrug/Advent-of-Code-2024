@@ -18,6 +18,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 07  | Bridge Repair         | [Day-07](Day-07/) |
 | 08  | Resonant Collinearity | [Day-08](Day-08/) |
 | 09  | Disk Fragmenter       | [Day-09](Day-09/) |
+| 10  | Hoof It               | [Day-10](Day-10/) |
 ---
 
 ## ⭐ Progress Tracker
@@ -33,6 +34,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 07  | 🌟🌟           |
 | 08  | 🌟🌟           |
 | 09  | 🌟🌟           |
+| 10  | 🌟🌟           |
 
 I am aiming to complete all **25 days**! 🚀
 
