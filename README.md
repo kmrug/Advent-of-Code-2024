@@ -19,6 +19,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 08  | Resonant Collinearity | [Day-08](Day-08/) |
 | 09  | Disk Fragmenter       | [Day-09](Day-09/) |
 | 10  | Hoof It               | [Day-10](Day-10/) |
+| 11  | Plutonian Pebbles     | [Day-11](Day-11/) |
 ---
 
 ## ⭐ Progress Tracker
@@ -35,6 +36,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 08  | 🌟🌟           |
 | 09  | 🌟🌟           |
 | 10  | 🌟🌟           |
+| 11  | 🌟🌟           |
 
 I am aiming to complete all **25 days**! 🚀
 
