@@ -13,7 +13,7 @@ public class PuzzleDay13 {
 
   public PuzzleDay13() {
 
-    String filePath = "C:\\Users\\kisha\\Desktop\\Advent Calendar\\Day 13\\prizes.txt";
+    String filePath = "prizes.txt";
     final Pattern patternA = Pattern.compile("Button\\sA:\\sX\\+([0-9]+),\\sY\\+([0-9]+)");
     final Pattern patternB = Pattern.compile("Button\\sB:\\sX\\+([0-9]+),\\sY\\+([0-9]+)");
     final Pattern patternPrize = Pattern.compile("Prize:\sX=([0-9]+),\sY=([0-9]+)");
