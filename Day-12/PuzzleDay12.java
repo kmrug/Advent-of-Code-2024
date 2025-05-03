@@ -134,7 +134,8 @@ public class PuzzleDay12 {
     return sum;
   }
 
-  private int findPerimeterPartTwo(List<char[]> plantGrid, char c, int rowS, int colS, boolean[][] visited, int oldRow, int oldCol) {
+  private int findPerimeterPartTwo(List<char[]> plantGrid, char c, int rowS, int colS, boolean[][] visited, int oldRow,
+      int oldCol) {
 
     if (rowS < 0 || colS < 0 || rowS >= plantGrid.size() || colS >= plantGrid.get(rowS).length) {
       return 1;
@@ -148,8 +149,9 @@ public class PuzzleDay12 {
       return 1;
     }
 
-    // if ((Math.abs(oldCol - colS) == 1 && rowS == oldRow) || (Math.abs(oldRow - rowS) == 1 && colS == oldCol)) {
-    //   return 0;
+    // if ((Math.abs(oldCol - colS) == 1 && rowS == oldRow) || (Math.abs(oldRow -
+    // rowS) == 1 && colS == oldCol)) {
+    // return 0;
     // }
 
     visited[rowS][colS] = true;
@@ -181,16 +183,15 @@ public class PuzzleDay12 {
     // System.out.println(Arrays.toString(pd12.plantCoord.get('C').get(i)));
     // }
 
-    // Finally part 1 fucking works, goddamn
+    // Part 1 works
     // List<Integer> priceList = pd12.getAreaList(pd12.plantCoord, pd12.plantGrid);
-    
+
     // int finalPrice = pd12.sumFinalList(priceList);
     // System.out.println("The final price is " + finalPrice);
 
-    // Now over to cry for part 2
+    // Now over to part 2
     boolean[][] visited = new boolean[pd12.plantGrid.size()][pd12.plantGrid.get(0).length];
     System.out.println(pd12.findPerimeterPartTwo(pd12.plantGrid, 'R', 0, 0, visited, 0, 0));
-
 
   }
 }
