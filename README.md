@@ -22,6 +22,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 11  | Plutonian Pebbles     | [Day-11](Day-11/) |
 | 12  | Garden Groups         | [Day-12](Day-12/) |
 | 13  | Claw Contraption      | [Day-13](Day-13/) |
+| 14  | Restroom Redoubt      | [Day-14](Day-14/) |
 ---
 
 ## ⭐ Progress Tracker
@@ -41,6 +42,7 @@ This repository contains my daily solutions for Advent of Code, along with probl
 | 11  | 🌟🌟           |
 | 12  | 🌟            |
 | 13  | 🌟🌟           |
+| 14  | 🌟🌟           |
 
 I am aiming to complete all **25 days**! 🚀
 
