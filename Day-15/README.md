@@ -70,7 +70,7 @@ The GPS calculation changes:
 | File Name            | Description                                                |
 | -------------------- | ---------------------------------------------------------- |
 | `PuzzleDay15.java`   | Java implementation for part 1                             |
-| `PuzzleDay15P2.java` | Java implementation for part 2                             |
+| `PuzzleDay15P2.java` | Incomplete Java implementation for part 2                  |
 | `fishMap.txt`        | Puzzle input with warehouse grid + instructions            |
 | `fishTest.txt`       | Test puzzle input with warehouse grid + instructions       |
 | `fishTestSmall.txt`  | Small test puzzle input with warehouse grid + instructions |
